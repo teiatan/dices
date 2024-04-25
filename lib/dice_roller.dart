@@ -38,7 +38,7 @@ class _DiceRollerState extends State<DiceRoller> {
             textStyle: const TextStyle(fontSize: 28),
           ),
           child: const Text('Кидай кубик'),
-        )
+        ),
       ],
     );
   }
